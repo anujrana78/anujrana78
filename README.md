@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujrana78&label=Profile%20views&color=0e75b6&style=flat" alt="anujrana78" /> </p>
 
+- 🔭 I’m currently working on **Beds & Bunks**
+
 - 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [anujrana.com.np](anujrana.com.np)
